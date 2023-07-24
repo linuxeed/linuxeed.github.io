@@ -1,9 +1,5 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+Заметки:
 
-layout: default
----
+- Java: [тык](/java)
 
-Java: [тык](/java)
 *To be continued...*
