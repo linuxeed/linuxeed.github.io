@@ -5,4 +5,5 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Java: [тык](/java)
+*To be continued...*
